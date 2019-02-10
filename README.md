@@ -5,7 +5,11 @@ Jenkins everything: We list out all of points we should ware to master Jenkins.
 
 Download and install Jenkins
 
+Start Jenkins as Java instance:
 
+```
+ java -jar jenkins.war
+```
 
 ## 2. Run and create a Jenkins Job
 
