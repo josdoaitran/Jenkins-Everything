@@ -10,6 +10,7 @@ Start Jenkins as Java instance:
 ```
  java -jar jenkins.war
 ```
+Get more information: https://wiki.jenkins.io/plugins/servlet/mobile?contentId=42469975#content/view/42469975
 
 ## 2. Run and create a Jenkins Job
 
