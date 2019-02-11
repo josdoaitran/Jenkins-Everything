@@ -25,3 +25,7 @@ Get more information: https://wiki.jenkins.io/plugins/servlet/mobile?contentId=4
 ## 3. Issues and Solutions
 
 ### 3.1 How to enable Jquery for external tools on our sources of jobs
+Run on console of Jenkins site 
+```
+System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "") 
+```
